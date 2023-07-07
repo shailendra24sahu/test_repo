@@ -5,6 +5,8 @@
 
 Development of a regression model to predict the compressive strength of concrete. The model will determine what will be the compressive strength of concrete by mixing specific quantities of different components in the concrete making process. 
 
+# Demo Preview
+![prediction gif](https://github.com/shailendra24sahu/test_repo/assets/101089059/3c6ed472-c2d8-4e02-a78a-9e8722a6d48f)
 
 # How to run?
 ### STEPS:
